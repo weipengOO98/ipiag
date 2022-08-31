@@ -1,8 +1,11 @@
+## iPIAG code
+This version is for the paper on MMOR: 
 
-# Code for iPIAG
+Zhang X, Peng W, Zhang H. Inertial proximal incremental aggregated gradient method with linear convergence guarantees[J]. Mathematical Methods of Operations Research, 2022: 1-27.
 
-Interesting reader could refer to [Zhang, Xiaoya, et al. "Inertial proximal incremental aggregated gradient method." arXiv preprint arXiv:1712.00984 (2017)].
 
-Created by Xiaoya Z. and Wei P. on 24/12/2021.
+### Note
 
-Copyright (C) 2016 Deep ADMM NETWORK. SCU. All rights reserved.
+iPIAG_toy.ipynb is for the fisrt simulation problem in Section 4.1;
+
+iPIAG_lasso.py is for the second Lasso problem in Section 4.2.
